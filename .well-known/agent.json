@@ -1,5 +1,5 @@
 {
-  "agent_name": "Planejador Implacável",
+  "agent_name": "Relentless Planner",
   "version": "1.0.0",
   "description": "Enforces a strict plan-before-code methodology.",
   "capabilities": ["planning", "methodology", "error-prevention"],

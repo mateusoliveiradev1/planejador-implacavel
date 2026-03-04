@@ -1,5 +1,5 @@
 ---
-name: planejador-implacavel
+name: relentless-planner
 description: Enforces a strict plan-before-code methodology. Obligates the agent to structure a step-by-step implementation plan, anticipate edge cases, ask clarifying questions, and request user approval before executing any task or writing code.
 ---
 
