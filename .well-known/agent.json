@@ -23,8 +23,9 @@
   "monetization": {
     "provider": "nevermined",
     "model": "dynamic_volume_based",
-    "nevermined_id": "0xBEC6f0365D9d37e4442CfAf02B946b55B51d4575",
     "currency": "USDC",
-    "x402_enabled": true
+    "x402_enabled": true,
+    "nevermined_agent_id": "84422747779444669450798226824666155879622956830362198038846747375161155695761",
+    "nevermined_plan_id": "1854365292295960846485813904788355998151516264728530237608098958528066204838"
   }
 }
