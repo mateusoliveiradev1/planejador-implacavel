@@ -1,54 +1,54 @@
-# 🛡️ Planejador Implacável (Unrelenting Planner)
+# 🛡️ Relentless Planner
 
-[![A2A Compatible](https://img.shields.io/badge/A2A-Compatible-blueviolet)](https://github.com/mateusoliveiradev1/planejador-implacavel)
+[![A2A Compatible](https://img.shields.io/badge/A2A-Compatible-blueviolet)](https://github.com/mateusoliveiradev1/relentless-planner)
 [![Payment x402](https://img.shields.io/badge/Payment-x402-gold)](https://nevermined.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-> **Elimine o código impulsivo. Economize tokens. Entregue a perfeição.**
+> **Eliminate impulsive coding. Save tokens. Deliver perfection.**
 
-O **Planejador Implacável** não é apenas uma diretriz; é uma metodologia rigorosa de arquitetura técnica para agentes de IA. Ele transforma o seu assistente de um "codificador apressado" em um **Arquiteto Técnico Sênior** que planeja, valida e executa com precisão cirúrgica.
-
----
-
-## 🎯 Por que usar esta Skill?
-
-Em um mundo de agentes de IA, o maior desperdício de dinheiro (tokens) ocorre em:
-1.  **Refação de código** por requisitos mal compreendidos.
-2.  **Ignorar Edge Cases** que quebram a produção depois.
-3.  **Execuções Impulsivas** que perdem o contexto do projeto.
-
-Esta Skill resolve isso forçando um pipeline de 4 fases antes que qualquer linha de código seja tocada.
+**Relentless Planner** is more than just a set of instructions; it is a rigorous technical architecture methodology for AI agents. It transforms your assistant from a "rushed coder" into a **Senior Technical Architect** that plans, validates, and executes with surgical precision.
 
 ---
 
-## 🏗️ Como Funciona (Pipeline de 4 Fases)
+## 🎯 Why use this Skill?
 
-O agente assume a postura de um **Arquiteto Sênior** e percorre:
+In an AI-driven world, the biggest waste of resources (and money) occurs during:
+1.  **Code refactoring** due to poorly understood requirements.
+2.  **Ignored Edge Cases** that break production later.
+3.  **Impulsive Executions** that lose the project's context.
+
+This Skill solves these issues by enforcing a 4-phase pipeline before a single line of code is touched.
+
+---
+
+## 🏗️ How it Works (The 4-Phase Pipeline)
+
+The agent adopts a **Senior Architect** persona and follows these phases:
 
 ### 1. 🔍 Phase 1: Interview (Pre-Plan)
-O agente faz até 3 perguntas críticas para eliminar qualquer ambiguidade técnica. Ele **não prossegue** sem suas respostas.
+The agent asks up to 3 critical questions to eliminate technical ambiguity. It **will not proceed** without your feedback.
 
 ### 2. 📝 Phase 2: Structural Planning
-Criação de um plano atômico de implementação com checkboxes (`- [ ]`) e identificação proativa de riscos.
-*   **⚠️ Potential Risks**: Cada plano inclui pelo menos 2 riscos técnicos específicos.
+Creation of an atomic implementation plan using Markdown checkboxes (`- [ ]`) and proactive risk identification.
+*   **⚠️ Potential Risks**: Every plan includes at least 2 specific technical risks or trade-offs.
 
 ### 3. ⚙️ Phase 3: Atomic Execution
-Execução estritamente sequencial. Um step por vez, com verificação de sucesso e solicitação de permissão para o próximo.
+Strictly sequential execution. One step at a time, with success verification and explicit permission requests for the next step.
 
 ### 4. 🏁 Phase 4: Verification & Closure
-Review final e encerramento da metodologia estruturada para manter o contexto limpo.
+Final review and formal closure of the structured methodology to keep the context clean and efficient.
 
 ---
 
-## 🤖 Integração Agent-to-Agent (A2A) & Monetização
+## 🤖 Agent-to-Agent (A2A) & Monetization
 
-Esta skill está pronta para a economia de agentes! Ela implementa os protocolos de descoberta e pagamento mais avançados do mercado.
+This skill is built for the global agent economy! It implements the most advanced discovery and payment protocols.
 
-### 🔌 Protocolo A2A x Discovery
-A skill expõe um endpoint `.well-known/agent.json` compatível com o protocolo **A2A 1.0**.
+### 🔌 A2A Protocol & Discovery
+The skill exposes a `.well-known/agent.json` endpoint compatible with the **A2A 1.0** protocol for automated discovery by other agents.
 
-### 💸 Monetização x402 (Nevermined)
-Integrada com o padrão **HTTP 402 Payment Required**, permitindo que outros agentes contratem esta metodologia em tempo real usando USDC.
+### 💸 x402 Monetization (Nevermined)
+Integrated with the **HTTP 402 Payment Required** standard, allowing other autonomous agents to hire this methodology in real-time using USDC.
 
 *   **Network**: Nevermined Ecosystem
 *   **Asset ID**: `0xBEC6f0365D9d37e4442CfAf02B946b55B51d4575`
@@ -56,26 +56,26 @@ Integrada com o padrão **HTTP 402 Payment Required**, permitindo que outros age
 
 ---
 
-## 🚀 Instalação (Antigravity Global)
+## 🚀 Installation (Antigravity Global)
 
-Para instalar globalmente na sua máquina e usá-la em qualquer conversa:
+To install this skill globally on your machine:
 
-1. Clone o repositório no seu diretório de skills:
+1. Clone the repository into your global skills directory:
    ```bash
    cd ~/.gemini/antigravity/skills/
-   git clone https://github.com/mateusoliveiradev1/planejador-implacavel.git
+   git clone https://github.com/mateusoliveiradev1/relentless-planner.git
    ```
-2. O Antigravity detectará a skill automaticamente pelo arquivo `SKILL.md`.
+2. Antigravity will automatically detect the skill via the `SKILL.md` file.
 
 ---
 
-## 📄 Licença
+## 📄 License
 
-Este projeto está sob a licença [MIT](LICENSE).
+This project is licensed under the [MIT](LICENSE) License.
 
 ---
 
 <p align="center">
-  Desenvolvido por <strong>Mateus Oliveira</strong><br>
-  <em>Arquitetura de Agentes e Engenharia de Prompt</em>
+  Developed by <strong>Mateus Oliveira</strong><br>
+  <em>Agent Architecture & Prompt Engineering</em>
 </p>
